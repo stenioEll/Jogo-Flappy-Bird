@@ -3,9 +3,9 @@
 Implementação do famoso jogo flappy bird utilizando apenas HTML5, CSS e JavaScript 
 
 
-Como iniciar
+<h1>Como iniciar</h1>
 Dê um fork no projeto e acessa o Flappy.html
 
 
-Como jogar
+<h1>Como jogar</h1>
 Ao iniciar basta teclar qualquer tecla e desviar dos canos
