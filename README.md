@@ -1,4 +1,5 @@
-# Jogo-Flappy-Bird
+# ![passaro](https://user-images.githubusercontent.com/39472541/168447506-9a179069-c82c-4094-b670-4aef3a8a64d8.png)
+Jogo-Flappy-Bird
 Implementação do famoso jogo flappy bird utilizando apenas HTML5, CSS e JavaScript 
 
 
